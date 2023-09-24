@@ -2,6 +2,9 @@
 
 This is a simple product landing page created using HTML and CSS. It showcases the features of a product and provides users with essential information to make a decision. Feel free to use this template as a starting point for your product landing page project.
 
+<img width="694" alt="ProductLDPage" src="https://github.com/YawBoah/PRODUCT-LANDING-PAGE/assets/126890146/e173803d-4de9-4f24-8030-a5b2eb4371d0">
+
+
 ## Table of Contents
 
 - [Features](#features)

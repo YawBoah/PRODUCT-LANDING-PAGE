@@ -1,5 +1,4 @@
 # Product Landing Page
-Doing a web development course on freecodecamp I was told to create this page as part of my assessment.
 
 This is a simple product landing page created using HTML and CSS. It showcases the features of a product and provides users with essential information to make a decision. Feel free to use this template as a starting point for your product landing page project.
 
@@ -64,6 +63,9 @@ You can customize the product landing page further by:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+This survey form template is based on the work of FreeCodeCamp.
 
 ---
 

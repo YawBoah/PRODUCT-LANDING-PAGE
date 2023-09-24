@@ -67,8 +67,8 @@ You can customize the product landing page further by:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-This survey form template is based on the work of FreeCodeCamp.
+## Acknowledgments
+Special thanks to FreeCodeCamp for their guidance in web development & responsiveness.
 
 ---
 
